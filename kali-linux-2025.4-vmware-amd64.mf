@@ -1,0 +1,2 @@
+SHA256(kali-linux-2025.4-vmware-amd64.ovf)= 8e5127f01b0d865e63883a575792fc742c550cf13b9fdec442941e86abfd5130
+SHA256(kali-linux-2025.4-vmware-amd64-disk1.vmdk)= 869a6d9ba9fc93018e60f7cd1fd60df293f26f45b9d17e7f58269606c1628ee1
